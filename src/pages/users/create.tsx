@@ -13,7 +13,7 @@ import * as yup from "yup";
 import { yupResolver } from "@hookform/resolvers/yup";
 import Link from "next/link";
 
-import { Input } from "../../components/Form/Input";
+import { Input } from "../../components/Forms/Input";
 import { Header } from "../../components/Header";
 import { Sidebar } from "../../components/Sidebar";
 
